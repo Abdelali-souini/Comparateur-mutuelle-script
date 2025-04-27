@@ -1,0 +1,8 @@
+{
+  "name": "assurance-comparateur",
+  "version": "0.1.0",
+  "description": "Comparateur d'assurances français",
+  "author": "Abdelali Souini",
+  "license": "MIT",
+  "private": true
+}
