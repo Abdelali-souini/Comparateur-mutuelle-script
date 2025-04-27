@@ -34,7 +34,7 @@ This project is a **frontend CMS** system for an insurance comparator (mutuelle)
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/comparateur-mutuelle-cms.git
+git clone https://github.com/yourusername/comparateur-mutuelle-script.git
 ```
 
 2. Install dependencies:
